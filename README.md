@@ -1,6 +1,6 @@
 # Based или Cringe? 🤖🔥
 
-[![Based или Cringe Bot](https://img.shields.io/badge/Status-Выхаживает%0Aсрач-ff69b4.svg)](https://github.com/[ТВОЕ_ИМЯ]/based-or-cringe-bot)
+[![Based или Cringe Bot](https://img.shields.io/badge/Status-Выхаживает%0Aсрач-ff69b4.svg)](https://github.com/NormikChel/based-or-cringe-bot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Внимание: Этот бот создан для трёпа и баттхерта. Не используй его в серьёзных репозиториях, если у тебя нет стальных яиц и чувства юмора.**
