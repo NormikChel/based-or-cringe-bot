@@ -1,0 +1,11 @@
+- name: Dependabot EPSS Action
+  uses: advanced-security/dependabot-epss-action@v0.4
+
+- name: Fetch Metadata from Dependabot PRs
+  uses: dependabot/fetch-metadata@v2.4.0
+
+- name: Python Actions Collection - CodeCov
+  uses: YaoYinYing/action-python@v7.3.1-post-6
+
+- name: LGTM Reaction
+  uses: micnncim/action-lgtm-reaction@v0.6.0
