@@ -1,10 +1,10 @@
 # .github/FUNDING.yml
 # Этот файл должен быть именно в такой папке и с таким названием!
 
-github: [NormikChel, Normik-Chel] # Оставил один аккаунт, уточни, если нужны оба.
+github: [NormikChel, Normik-Chel]  # Оба аккаунта через запятую
 patreon: NormikChel
 buy_me_a_coffee: normikchel
-ko_fi: normikchel # Добавил Ko-fi, раз уж есть BMAC, это аналог.
+ko_fi: normikchel
 custom:
   - "https://www.donationalerts.com/r/normik_chel"
   - "http://boosty.to/NormikChel/donate"
